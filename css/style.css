@@ -34,8 +34,7 @@ body {
     top                 : 0;
     left                : 0;
     width               : 100%;
-    z-index             : 999;
-   
+    z-index             : 999;  
 }
 
 .navbar-expand-lg .navbar-nav .nav-item {
@@ -743,6 +742,7 @@ body {
     border: 1px solid #111;
     text-align: center;
     transition: all linear .5s;
+    cursor  : pointer;
 }
 
 .services-top-arrow:hover {
@@ -889,6 +889,7 @@ body {
     border: 1px solid #111;
     text-align: center;
     transition: all linear .5s;
+    cursor  : pointer;
 }
 
 .services-bottom-arrow:hover {
@@ -952,6 +953,7 @@ body {
     text-align: center;
     line-height: 48px;
     transition: all linear .5s;
+    cursor  : pointer;
 }
 
 .review-top-arrow:hover {
@@ -1110,6 +1112,7 @@ body {
     text-align: center;
     line-height: 48px;
     transition: all linear .5s;
+    cursor  : pointer;
 }
 
 .review-bottom-arrow:hover {
@@ -1752,6 +1755,7 @@ body {
     transition: all linear .5s;
     filter: drop-shadow(0px 0px 5px #fff);
     display: none;
+    cursor: pointer;
 }
 
 #top-scroll-btn:hover {
